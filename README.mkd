@@ -1,0 +1,61 @@
+# [CHALLENGE ALURA] Conversor de Moeda em Java
+
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/directory-file-count/marelps/conversor-de-moedas?style=flat-square">
+  <a href="https://twitter.com/piterparquinho">
+    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fpiterparquinho">
+  </a>
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/marelps/conversor-de-moedas?style=flat-square">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a href="">
+    <img alt="Feito por Vitória" src="https://img.shields.io/badge/feito%20por-Vitória-%237519C1">
+  </a>
+
+# Projeto Calculadora
+
+<h4 align="center"> 
+	✅ Projeto Concluído ✅
+</h4>
+
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#autor">Autor</a> • 
+  <a href="#licença">Licença</a>
+</p>
+
+## Objetivo
+
+### Objetivo do projeto
+
+Projeto criado como resultado de estudos realizados no programa ONE criado pela Oracle e Alura na trilha de back-end utilizando JAVA  como a linguagem principal.
+
+O objetivo principal do projeto é testar tudo que aprendemos no decorredor do curso criando um corversor de moedas que ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu.
+<p align="center">
+<img src="img/image.png" alt="Visualização do projeto" height=250px>
+</p>
+
+A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, o [Exchange Rate API](https://www.exchangerate-api.com/) , garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz.
+<p align="center">
+<img src="img/image2.png" alt="Visualização do projeto" height=350px>
+</p>
+
+## Autor
+
+<p align="center">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48718646?v=4" width="100px;" alt="Autora do projeto"/>
+ <br />
+ <sub><b>Vitória Garrucho</b></br> Feito com ❤️</sub></p>
+
+<p align="center">Entre em contato através das minhas redes sociais!<br>
+<a href="https://twitter.com/piterparquinho" target="_blank"><img src="https://img.shields.io/badge/-@piterparquinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piterparquinho" alt="Twitter Badge"></a>
+<a href="https://www.linkedin.com/in/vitoriagarrucho/" target="_blank"><img src="https://img.shields.io/badge/-Vitória-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriagarrucho/" alt="Linkedin Badge"></a>
+<a href="mailto:vitoriagarrucho@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-vitoriagarrucho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitoriagarrucho@gmail.com" alt="Gmail Badge"></a>
+ </p>
+
+## Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
+
+Feito com ❤️ por Vitória Garrucho
+
+<a href="https://www.linkedin.com/in/vitoriagarrucho/" target="_blank">Entre em contato!</a>
